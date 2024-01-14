@@ -15,8 +15,8 @@
     max-width: 540px;
     background: #fff;
     margin: 100px auto 20px;
-    padding: 40px 30px 70px;
-    border-radius: 10px;
+    padding: 42px 32px 75px;
+    border-radius: 15px;
 }
 .todo-app h2{
     color: #002765;
@@ -35,7 +35,7 @@
     background: #edeef0;
     border-radius: 30px;
     padding-left: 20px;
-    margin-bottom: 25px;
+    margin-bottom: 28px;
 }   
 input{
     flex: 1;
@@ -43,7 +43,7 @@ input{
     outline: none;
     background: transparent;
     padding: 10px;
-    font-weight: 14px;
+    font-weight: 15px;
 }
 button{
     border: none;
